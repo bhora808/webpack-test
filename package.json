@@ -1,0 +1,25 @@
+{
+  "name": "week-13",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/bhora808/webpack-test#readme",
+  "bugs": {
+    "url": "https://github.com/bhora808/webpack-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhora808/webpack-test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2"
+  }
+}
